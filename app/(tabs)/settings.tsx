@@ -1,9 +1,9 @@
 import { StyleSheet, Text, View } from "react-native";
 
-export default function Explore() {
+export default function Settings() {
   return (
     <View style={styles.container}>
-      <Text>Flood</Text>
+      <Text>Settings</Text>
     </View>
   );
 }
